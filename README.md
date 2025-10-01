@@ -76,12 +76,12 @@ A powerful, comprehensive Windows optimization tool inspired by Ghost Spectre. O
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/windows-tweak-toolbox.git
-cd windows-tweak-toolbox
+git clone https://github.com/lexathegoat/peak.git
+cd peak
 ```
 
 2. **Open in Visual Studio:**
-   - Open `WindowsTweakToolbox.sln`
+   - Open `Peak.sln`
    - Or create new Console App (.NET Framework) and paste the code
 
 3. **Add Required References:**
@@ -284,7 +284,7 @@ Contributions are welcome! Here's how you can help:
 - Network optimizations may not apply on virtual machines
 - Visual effects reset after major Windows updates
 
-**Report issues:** [GitHub Issues](https://github.com/yourusername/windows-tweak-toolbox/issues)
+**Report issues:** [GitHub Issues](https://github.com/lexathegoat/peak/issues)
 
 ---
 
